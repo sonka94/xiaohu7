@@ -1,0 +1,7 @@
+## xiaohuPush.yml
+name: 'xiaohuPush'
+ 
+on:
+  push:
+  schedule:
+    - cron: '0 23 * * *'
